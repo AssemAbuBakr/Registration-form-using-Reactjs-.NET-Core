@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb7e42fe-866f-4cb6-9abb-0c6ed873bca9": {
+      "ProjectGuid": "eb7e42fe-866f-4cb6-9abb-0c6ed873bca9",
+      "DisplayName": "RegistrationForm",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
